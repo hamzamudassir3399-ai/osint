@@ -1,0 +1,5 @@
+# Maltego OSINT Transforms - Dependencies
+# ========================================
+# Install with: pip install -r requirements.txt
+
+maltego-trx>=1.6.0
